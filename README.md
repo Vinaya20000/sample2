@@ -12,3 +12,7 @@ pip install dna_to_protein
 # sample1
 # sample2
 # sample2
+
+
+
+#Test
